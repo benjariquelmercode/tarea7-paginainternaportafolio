@@ -153,6 +153,7 @@ body {
     border-radius: 5px;
     padding: 10px 15px 0px 18px; 
     margin-bottom: auto;
+    margin-top: 10px;
     text-align: left;
     color: var(--color-oscuro);
 }
@@ -161,8 +162,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     margin: 5px;
-    margin-left: 5px;
-    margin-bottom: 14px;
+    margin-left: 15px;
+    margin-bottom: 0px;
     justify-content: initial;
 }
 
@@ -196,6 +197,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     margin: 5px;
+    margin-left: 15px;
+    margin-bottom: 15px;
 }
 
 .source__tags--li{
@@ -350,7 +353,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     margin: auto;
-    margin-left: 16px;
+    margin-left: 20px;
     margin-bottom: -10px;
 }
 
