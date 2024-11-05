@@ -455,7 +455,7 @@ a {
     }
     
     .header__tags--tag{
-        padding: 5px 20px 5px 20px;
+        padding: 5px 15px 5px 15px;
         margin: 1px;
         font-size: 12px;
         border: 1px solid hsla(var(--tono), 40%, 92%, 1); 
@@ -512,7 +512,7 @@ a {
     .sources__tags{
         display: flex;
         margin-bottom: 0px;
-        padding: 0px 10px;
+        padding: 0px 0px;
         justify-content: start;
         color: var(--color-primario-claro);
         }
